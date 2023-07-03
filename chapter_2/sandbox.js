@@ -165,7 +165,7 @@ if(true) {
     if(true) {
         const age = 50;
         console.log('inside 2nd code block', age);
-        var test = 'hello world';
+        var tes = 'hello world';
     }
 }
 
